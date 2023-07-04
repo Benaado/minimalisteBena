@@ -1,0 +1,11 @@
+<theme>
+	<name>minimalisteBena</name>
+    <skinType>1</skinType>
+    <description>Reprise du thème Minimaliste par Bena</description>
+    <previewUri>minimalisteReloadedPreview.jpg</previewUri>
+	<author>Benaado</author>
+	<version>1.0.0</version>
+	<dofusVersion>2.64</dofusVersion>
+    <creationDate>22/07/2022</creationDate>
+    <modificationDate>04/07/2023</modificationDate>
+</theme>
