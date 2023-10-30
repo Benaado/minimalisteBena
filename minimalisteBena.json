@@ -2,13 +2,13 @@
 {
    "author" : "Benaado",
    "name" : "minimalisteBena",
-   "keyWords" : "minimanliste",
-   "version" : "1.0",
-   "dofusVersion" : "2.68",
+   "keyWords" : "minimaliste",
+   "version" : "1.1",
+   "dofusVersion" : "2.69",
    "description" : "Rework de Minimaliste basé sur Nightmode de Uni",
    "url" : "https://github.com/Benaado/minimalisteBena/raw/main/minimalisteBena.zip",
    "previewUrl" : "https://github.com/Benaado/minimalisteBena/raw/main/minimalisteBena/minimalisteBena.jpg",
    "creationDate" : "04/07/2023",
-   "modificationDate" : "04/07/2023"
+   "modificationDate" : "30/10/2023"
    }
  ]
